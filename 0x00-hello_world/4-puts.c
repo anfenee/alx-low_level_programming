@@ -1,10 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Echoes text
- *
- * Return messages
- * Return: 0 success
+ * main - main block
+ * Return 0
  */
 int main(void)
 {
